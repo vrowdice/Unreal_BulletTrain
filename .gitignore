@@ -1,9 +1,24 @@
-/Saved
-/Intermediate
-/.vs
-/Build
-/Plugins
-/Binaries
-/DerivedDataCache
+# Unreal Engine auto-generated folders
+/Saved/
+/Intermediate/
+/Build/
+/Binaries/
+/DerivedDataCache/
+/Plugins/
+/.vs/
+
+# Visual Studio files
 *.sln
+*.vcxproj*
+*.opensdf
+*.sdf
+*.suo
+*.user
+*.userprefs
+
+# Unreal Engine built data
 *_BuiltData.uasset
+
+# OS-specific
+.DS_Store
+Thumbs.db
