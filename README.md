@@ -84,4 +84,4 @@ git clone https://github.com/yourname/UnrealBulletTrain.git
 git clone https://github.com/yourname/UnrealBulletTrain.git
 
 ## 📺 YOUTUBE LINK: https://www.youtube.com/watch?v=G30VlZBtZHM
-## DOCUMENT: https://github.com/vrowdice/GameDocuments/tree/main/ko
+## DOCUMENT: https://github.com/vrowdice/GameDocuments/blob/main/ko/BulletTrain_concept_design.pdf
