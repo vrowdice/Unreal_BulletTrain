@@ -1,19 +1,13 @@
 # 🎮 Unreal BulletTrain  
 **3D Sci-Fi Rail Shooter | Unreal Engine Fan Project**
 
----
-
 ## 🔍 Overview  
 **Unreal BulletTrain** is a fan project that re-imagines the classic arcade rail shooter in a gritty, narrative-driven 3D sci-fi world.  
 Built with **Unreal Engine 5**, the project focuses on **high-intensity combat**, **compelling storytelling**, and **immersive visuals** — all on the rails.
 
----
-
 ## 🚧 Project Status  
 > 🛠 **Under Active Development**  
 The core shooting mechanics and narrative system are in place, with early prototypes showcasing combat in **desolate space environments** and **tight, metallic corridors**.
-
----
 
 ## 📖 Story Synopsis  
 In a **dystopian future**, you are a **condemned prisoner turned weapon**.  
@@ -24,8 +18,6 @@ Dragged into a war you don’t believe in, you’re forced to **defend a crumbli
 - **Betrayal & Resentment** – Your handler, a cold Commander, sees you only as ammo.  
 - **Survival & Despair** – Life has no value here — only utility.  
 - **Rebellion & Self-Determination** – Can you carve out freedom in a decaying galaxy?
-
----
 
 ## 🎮 Key Features  
 - 🛰 **Immersive 3D Environments**  
@@ -43,8 +35,6 @@ Dragged into a war you don’t believe in, you’re forced to **defend a crumbli
 - 🔊 **Atmospheric Visuals & Sound**  
   - Utilizing Unreal’s lighting, particles, and spatial sound for full immersion.
 
----
-
 ## ▶️ How to Play (Development Build)  
 
 ### 1. Clone Repository  
@@ -54,19 +44,13 @@ git clone https://github.com/yourname/UnrealBulletTrain.git
 # 🎮 Unreal BulletTrain  
 **3D SF 레일 슈터 | 언리얼 엔진 팬 프로젝트**
 
----
-
 ## 🔍 개요  
 **Unreal BulletTrain**은 고전 아케이드 스타일의 레일 슈터를 **어두운 SF 세계관**과 **서사 중심 전개**로 재해석한 팬 프로젝트입니다.  
 **Unreal Engine 5**로 제작되었으며, 고밀도의 전투와 몰입감 있는 분위기, 깊이 있는 스토리를 제공합니다.
 
----
-
 ## 🚧 프로젝트 현황  
 > 🛠 **개발 진행 중**  
 기본 전투 시스템과 스토리 프레임워크는 구현 중이며, 초기 프로토타입에서는 **황폐한 우주 공간**과 **좁은 금속 통로**에서 벌어지는 전투가 포함되어 있습니다.
-
----
 
 ## 📖 스토리 시놉시스  
 **디스토피아적 미래**. 당신은 **사형수**로 판결받은 죄수입니다.  
@@ -77,8 +61,6 @@ git clone https://github.com/yourname/UnrealBulletTrain.git
 - **배신과 분노** – 인간성을 무시하는 지휘관에 대한 깊은 증오  
 - **생존과 절망** – 생명 대신 효율만이 평가받는 전쟁의 현실  
 - **반란과 자아의 회복** – 정해진 운명을 거부하고 스스로의 길을 개척하려는 의지
-
----
 
 ## 🎮 주요 기능  
 - 🛰 **몰입감 있는 3D 환경**  
@@ -96,13 +78,10 @@ git clone https://github.com/yourname/UnrealBulletTrain.git
 - 🔊 **분위기 있는 비주얼 & 사운드**  
   - **조명**, **파티클**, **3D 사운드**로 구성된 몰입형 SF 세계  
 
----
-
 ## ▶️ 실행 방법 (개발 빌드 기준)
 
 1. **레포지토리 클론**
 git clone https://github.com/yourname/UnrealBulletTrain.git
-
 
 ## 📺 YOUTUBE LINK: https://www.youtube.com/watch?v=G30VlZBtZHM
 ## DOCUMENT: https://github.com/vrowdice/GameDocuments/tree/main/ko
